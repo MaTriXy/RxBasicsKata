@@ -2,9 +2,13 @@
 
 A set of simple code challenges to learn RxJava using JUnit tests as an acceptance criteria. Focused on some basic concepts and doesn't cover any Android topics yet.
 
+
+[!["Solved" branch](https://travis-ci.org/sergiiz/RxBasicsKata.svg?branch=solved)](https://travis-ci.org/sergiiz/RxBasicsKata)
+
+
 ## Current implementation
 ### Dependencies:
-- RxJava 2.0.5 
+- RxJava 2.1.7 
 - JUnit 4.12
 
 ### Reactive types covered:
@@ -31,7 +35,7 @@ A set of simple code challenges to learn RxJava using JUnit tests as an acceptan
 - All tests are failing when you just took them from the repo. This is expected behaviour. You should make tests pass by implementing the logic in CountriesServiceSolved class
 
 ## Blog post
-See my blog post at Medium for more details: https://medium.com/@sergii.
+See my blog post at Medium for more details: https://proandroiddev.com/practical-challenges-for-rxjava-learners-1821c454de9.
 
 ## Contribution
 Pull requests and new code challenges are really welcome.
